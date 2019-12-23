@@ -1,4 +1,3 @@
-import numpy as np
 if __name__ == "__main__":
   with open("input.txt","r") as f:
     a = f.read()
